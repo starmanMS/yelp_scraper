@@ -104,6 +104,4 @@ The `main` function:
 2. **Proxies and Rate Limits**: This script uses ScraperAPI with random delays to avoid rate limits. Adjust the `time.sleep` intervals as necessary if you encounter blocking issues.
 3. **HTML Structure**: The CSS selectors (e.g., `'y-css-hcgwj4'`) may change, requiring updates to `extract_restaurant_name` and `extract_reviews`.
 
---- 
-
-This tool provides a streamlined way to gather insights from Yelp reviews, providing both sentiment and emotion analysis data for deeper understanding of customer feedback.
+---
